@@ -1,0 +1,3 @@
+[submodule "app/happy"]
+	path = app/happy
+	url = https://github.com/slopus/happy.git
